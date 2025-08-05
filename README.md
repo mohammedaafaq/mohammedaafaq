@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Aafaq
 
-<!--
-**mohammedaafaq/mohammedaafaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | HTML | CSS | JavaScript | Bootstrap | React (Learning)  
+🎯 Focused on building responsive, user-friendly web apps  
+🌱 Currently learning React and exploring real-world frontend projects  
+🚀 Passionate about clean UI, performance & interactive design  
+📫 Let's connect:  
+[LinkedIn](https://linkedin.com/in/mohammedaafaq-dev) • [GitHub](https://github.com/mohammedaafaq)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+HTML5 • CSS3 • JavaScript • Bootstrap • Git & GitHub • React JS (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Currency Converter** – Real-Time Web Tool 
+- **SecurePass** – Password strength checker  
+- **FlyBeyond** – Travel & destination showcase site  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaafaq&show_icons=true&theme=radical)
