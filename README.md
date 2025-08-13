@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Aafaq
 
-💻 Frontend Developer | HTML | CSS | JavaScript | Bootstrap | React (Learning)  
+💻 Frontend Developer | HTML | CSS | JavaScript | Bootstrap | React  
 🎯 Focused on building responsive, user-friendly web apps  
 🌱 Currently learning React and exploring real-world frontend projects  
 🚀 Passionate about clean UI, performance & interactive design  
