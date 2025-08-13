@@ -5,7 +5,7 @@
 🌱 Currently learning React and exploring real-world frontend projects  
 🚀 Passionate about clean UI, performance & interactive design  
 📫 Let's connect:  
-[LinkedIn](https://linkedin.com/in/mohammedaafaq-dev) • [GitHub](https://github.com/mohammedaafaq)
+[LinkedIn](https://www.linkedin.com/in/mohammed-aafaq-dev/) • [GitHub](https://github.com/mohammedaafaq)
 
 ## 🔧 Tech Stack
 HTML5 • CSS3 • JavaScript • Bootstrap • Git & GitHub • React JS (Learning)
